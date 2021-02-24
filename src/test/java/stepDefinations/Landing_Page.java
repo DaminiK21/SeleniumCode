@@ -17,6 +17,7 @@ public class Landing_Page extends BaseClass{
 	    @Then("^All details should be select successfully$")
 	    public void all_details_should_be_select_successfully() throws Throwable {
 	    	System.out.println("login success..");	
+	    	System.out.println("done");
 			
 	        
 	    }
