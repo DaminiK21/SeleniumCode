@@ -18,8 +18,7 @@ public class Landing_Page extends BaseClass{
 	    public void all_details_should_be_select_successfully() throws Throwable {
 	    	System.out.println("login success..");	
 	    	System.out.println("done");
-			
-	        
+	    	System.out.println("done");
 	    }
 
 	    @And("^Select trip \"([^\"]*)\" radio button$")
